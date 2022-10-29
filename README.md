@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Lucas Eckhardt...</h1>
 <h3 align="center">A technology enthusiast in search of knowledge in the area of programming and data analysis.</h3>
 
-- 🌱 I’m currently learning **C, Python and MySQL.**
-
 - 📫 How to reach me **lucas.ace@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
