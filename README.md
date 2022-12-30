@@ -3,13 +3,13 @@
 
 - 🔭 Student **Computer Engineering**
 
-- 🌱 I’m currently learning **C, Python, MySQL...**
+- 🌱 I’m currently learning **C, Python, SQL...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lucasace_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasace_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas-eckhardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-eckhardt" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasace_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasace_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-eckhardt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-eckhardt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
