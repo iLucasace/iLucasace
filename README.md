@@ -6,5 +6,7 @@
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iLucasace&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasace&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iLucasace&show_icons=true&theme=dark" width="535px" height="210px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucasace&langs_count=8&theme=dark" height="210px">
+</p>
